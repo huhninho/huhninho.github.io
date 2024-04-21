@@ -1,13 +1,17 @@
-# Privacy Policy for Cocktail Books
+# Privacy Policy
+
+Your privacy and data security are our top priorities.
 
 ## Data Storage and Security
-- **Data Storage:** All user data, including cocktail recipes and cocktail books, is stored securely on AWS cloud.
-- **No Sensitive Data:** Cocktail Books does not collect or share sensitive personal information such as phone numbers
-- or location data.
-- **Data Sharing:** No user data is shared with third parties. Sharing of cocktail books among friends is strictly
-- controlled by the user.
-- **Security Measures:** Robust security measures are in place to protect user data from unauthorized access.
+
+- **Secure Storage:** All user data, including recipes and personal cocktail books, are securely stored on AWS cloud.
+- **No Sensitive Data Collection:** We do not collect sensitive personal information such as phone numbers or location.
+- **User-Controlled Sharing:** Users control how their cocktail books are shared, with no data shared with third parties
+without explicit consent.
+- **Robust Security Measures:** Advanced security measures are in place to protect against unauthorized access to your
+data.
 
 ## Commitment to Privacy
-We are committed to protecting your privacy and ensuring that your cocktail recipes and books are stored securely and
-shared only according to your preferences.
+
+We are dedicated to maintaining the privacy of your cocktail recipes and books, ensuring they are secure and managed
+according to your preferences.

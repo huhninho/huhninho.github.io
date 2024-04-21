@@ -1,16 +1,14 @@
-# Cocktail Books
+# Overview
 
-## Introduction
-Cocktail Books is an app that allows users to manage their cocktail recipes. It includes a default cocktail book based
-on classic IBA cocktails, but users can also create new cocktail books and share them with friends.
+Cocktail Books offers a robust platform for managing and sharing cocktail recipes.
 
 ## Features
-- **Manage Cocktail Recipes:** Add, update, delete, and display cocktail recipes.
-- **Share Cocktail Books:** Users can create their cocktail books and share them with others.
-- **Preloaded IBA Cocktails:** The app comes with a preloaded list of classic cocktails.
+- **Recipe Management:** Add, update, and delete recipes with ease.
+- **Social Sharing:** Share your cocktail books with a community of enthusiasts.
+- **Classic Recipes:** Explore a variety of preloaded classic IBA cocktails.
 
-## How to Use
-1. **Browse Cocktails:** Start by exploring the default IBA cocktail book.
-2. **Create a Book:** Users can create their own cocktail books in the app.
-3. **Manage Cocktails:** Add new cocktails or edit existing ones within your books.
-4. **Share with Friends:** Share your custom cocktail books with friends within the app.
+## Usage
+1. Explore the default recipes.
+2. Create your cocktail book.
+3. Manage your recipes.
+4. Share and enjoy cocktails with friends.
